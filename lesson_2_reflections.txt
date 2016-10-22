@@ -1,0 +1,15 @@
+﻿What happens when you initialize a repository? Why do you need to do it?
+
+
+	
+	Now that you’ve initialized your first repository, go 
+	to your reflections directory, create a new file called 
+	lesson_2_reflections.txt, and add the following question 
+	and your thoughts on it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Now that you’ve added a file to the staging area 
+	(or maybe multiple files!), go add the following 
+	question and your thoughts on it to your 
+	lesson_2_reflections file:
