@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    	When you've created your document, written down your thoughts, 
+	and saved the file, click "Next" to learn about some systems 
+	that can help you create these versions of your files.
+	Like Sarah said, there is a lot of research out there on reflection.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    	Now that you've learned about some version control systems, 
+	and how they can help you save the history of a file, go add 
+	the following question and your thoughts on it to 
+	your reflections file.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    	Now you've learned about Git commits and thought about 
+	good times to create commits, go add the following question 
+	and your thoughts on it to your reflections file:
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  	When you've updated your document, click "Next", 
+	and an experienced Git user will share why version 
+	control is useful to him.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    	Now that you've had some experience using Git yourself, 
+	go add the following question and your thoughts on it 
+	to your reflections file.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    	Now that you know how to return to a previous version 
+	of your files using Git, go add the following question 
+	and your thoughts on it to your reflections file.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    	Go add the following question and your thoughts on it 
+	to your reflections file:
