@@ -1,6 +1,18 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-Now that you've seen how to create a remote 
-repository and push changes to it, use the 
-GitHub website to create a new file for your lesson 3 
-reflections and add the below question and your thoughts on it.
+
+
+	Now that you've seen how to create a remote 
+repository 
+	and push changes to it, use the 
+GitHub website to 
+	create a new file for your lesson 3 
+reflections and 
+	add the below question and your thoughts on it.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	You may also want to commit and push your changes. 
+	When you're finished, click "Next" and Sarah will go over 
+	what to do if you want to share your changes to a repository 
+	and you don't have permission to modify the original.
